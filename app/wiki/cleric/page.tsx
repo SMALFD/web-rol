@@ -7,9 +7,9 @@ export default function Cleric() {
             <div className="content">
                 <h1 id="Cleric">Clérigo</h1>
                 <p>
-                    <em>"Mira, el rato que no estoy curándote estoy haciendo hechizos que
+                    <em>&quot;Mira, el rato que no estoy curándote estoy haciendo hechizos que
                         acaban con el triple de enemigos que tú. Si quieres mi atención y curas
-                        más te vale ponerte en serio en las peleas." </em> Argeros el Santo, en sus
+                        más te vale ponerte en serio en las peleas.&quot; </em> Argeros el Santo, en sus
                     primeros días era conocido por su gran capacidad ofensiva.
                 </p>
                 <p>

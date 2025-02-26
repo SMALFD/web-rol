@@ -1,3 +1,4 @@
+import React from 'react';
 import Link from "next/link";
 
 export default function Bard() {
@@ -20,7 +21,7 @@ export default function Bard() {
                     especializados en enseñar este arte, muchos bardos son autodidactas o han
                     tenido profesores menos estándar. Lo único que tienen en común es que para
                     conseguir trabajo en el gremio de aventureros o en trabajos más
-                    "Ilícitos", saben que el mejor para presentarles es Lute.
+                    &quot;Ilícitos&quot;, saben que el mejor para presentarles es Lute.
                 </p>
                 <p>
                     En este setting la mayoría de bardos son increíblemente independientes y

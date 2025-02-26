@@ -70,6 +70,6 @@ export default function Monk() {
     );
 }
 
-/*"Monje me gusta mucho porque es como jugar al Street Fighter con los combos"
-"¿Qué es ese Street Fighter del que hablas?"
+/*&quot;Monje me gusta mucho porque es como jugar al Street Fighter con los combos&quot;
+&quot;¿Qué es ese Street Fighter del que hablas?&quot;
 Fragmento de un antiguo texto de una secta Murim. Su significado es desconocido */

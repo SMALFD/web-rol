@@ -47,7 +47,7 @@ export default function Ranger() {
                     potenciales elementos que pongan en peligro al Imperio.
                 </p>
                 <p>
-                    Esta "organización" la componen un concilio de tres líderes
+                    Esta organización la componen un concilio de tres líderes
                     donde uno de ellos ostenta la gran hoja de roble dorada, símbolo de su
                     liderazgo sobre el concilio de la hoja de roble, otro es el Maestro de la
                     orden a cargo de la capital y sus alrededores y el último es el experto en

@@ -1,3 +1,4 @@
+import React from 'react';
 import Link from "next/link";
 
 export default function Barbarian() {
@@ -43,5 +44,5 @@ export default function Barbarian() {
     );
 }
 
-/*"Mhmmm, si puedo mover la balalaika y puedo mover la pared. Eso significa que la pared está hecha de balalaika"
+/*&quot;Mhmmm, si puedo mover la balalaika y puedo mover la pared. Eso significa que la pared está hecha de balalaika&quot;
 Fryderik el fuerte sobre una pared de madera*/

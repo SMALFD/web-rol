@@ -8,10 +8,10 @@ export default function Wizard() {
                 <h1 id="wizard">Mago</h1>
                 <p>
                     Bienvenido al noble oficio de los magos, un antiguo sabio dijo una vez
-                    "The price for learning magic is that you become responsible for your
+                    &quot;The price for learning magic is that you become responsible for your
                     own magic, no more lucky breaks, no more sinchronicity, no more
                     spontaneous moments of quiet wonder, you have to do it all yourself and in
-                    exchange you get to shoot fireballs". Mientras que es ampliamente
+                    exchange you get to shoot fireballs&quot;. Mientras que es ampliamente
                     conocido por ser una exageración entre amigos no se termina de alejar de
                     la realidad. El estudio de la magia deja la mente agotada y cuanto más
                     vasto es tu conocimiento más cosas entran bajo tu control y dominio
@@ -80,5 +80,5 @@ export default function Wizard() {
     );
 }
 
-/*"No he preguntado cuál es el tamaño de la sala, solo he dicho fireball"
+/*&quot;No he preguntado cuál es el tamaño de la sala, solo he dicho fireball&quot;
 Común broma entre los estudiantes de magia */

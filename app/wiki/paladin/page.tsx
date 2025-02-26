@@ -84,5 +84,5 @@ export default function Paladin() {
     );
 }
 
-/*"Que asco da paladín. El mejor tanque, dps, top 3 healer, carisma, utilidad"
+/*&quot;Que asco da paladín. El mejor tanque, dps, top 3 healer, carisma, utilidad&quot;
 La rogue de Dani, comandante de las legiones sagradas*/

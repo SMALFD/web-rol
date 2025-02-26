@@ -30,6 +30,3 @@ export default function Sorcerer() {
         </main>
     );
 }
-
-/*"Imabouttomakeanameformyself"
-Padre de un hechicero desconocido al ver a un dragón */
