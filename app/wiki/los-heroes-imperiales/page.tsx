@@ -1,5 +1,4 @@
 import React from 'react';
-import Link from "next/link";
 
 export default function Los_heroes_imperiales() {
     return (

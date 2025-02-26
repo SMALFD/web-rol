@@ -1,5 +1,4 @@
 import React from 'react';
-import Link from "next/link";
 
 export default function Comuna_Independiente_Del_Bosque() {
     return (
