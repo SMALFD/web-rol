@@ -1,0 +1,257 @@
+/* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}*/
+
+:root {
+    --background: #C8AD7F;
+    --foreground: #8B4513;
+  }
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+  font-family: Arial, Helvetica, sans-serif;
+  overflow-x: hidden;
+}
+
+a {
+  color: #663512;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #502a10;
+  text-decoration: underline;
+}
+
+/*All the navbar settings*/
+
+.navbar {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 20px;
+  width: 100%;
+  background-color: #ffffff;
+}
+
+.navbar-title {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.navbar-container {
+  display: flex; /* Flex layout for horizontal arrangement */
+  justify-content: space-between; /* Space between links and the dropdown */
+  width: 100%
+}
+
+.navbar-links {
+  display: flex; /* Flexbox for horizontal alignment */
+  flex-direction: row;
+  gap: 15px;
+}
+
+.settings-nav {
+  align-self: flex-end /* Pushes the dropdown to the right */
+}
+
+.settings-nav select {
+  padding: 5px;
+  border-radius: 4px;
+  border: none;
+  font-size: 16px;
+}
+
+
+/*Settings container(El cuadrado blanco donde esta el texto)*/
+
+.container {
+  display: flex; /* Enables centering */
+  justify-content: center; /* Centers the box horizontally */
+  padding: 20px; /* Adds spacing around the container */
+}
+
+.content {
+  background: #ffffff; /* White background */
+  box-shadow: 0 2px 4px 1px rgba(0, 0, 0, 0.2); /* Soft shadow effect */
+  position: relative;
+  top: 0px; /* Moves the box slightly up */
+  border-radius: 4px; /* Rounds the corners */
+  padding: 20px; /* Space inside the box */
+  width: 80%; /* Makes it take 80% of the screen width */
+  max-width: 800px; /* Ensures it doesn't get too wide */
+}
+
+
+
+/*Dark theme*/
+
+.dark-theme {
+  --background:#000000;
+  --foreground:#ffffff;
+}
+
+.dark-theme body {
+  color: var(--foreground);
+  background: var(--background);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.dark-theme a {
+  color: #4936f8;
+  text-decoration: none;
+}
+
+.dark-theme a:hover{
+  color: #533583;
+  text-decoration: underline;
+}
+
+.dark-theme .navbar {
+  list-style-type: none;
+  margin: 0;
+  padding: 20px;
+  width: 100%;
+  background-color: #313131;
+}
+
+.dark-theme .container {
+  display: flex; /* Enables centering */
+  justify-content: center; /* Centers the box horizontally */
+  padding: 20px; /* Adds spacing around the container */
+}
+
+.dark-theme .content {
+  background: #313131; /* White background */
+  box-shadow: 0 2px 4px 1px rgba(0, 0, 0, 0.2); /* Soft shadow effect */
+  position: relative;
+  top: 0px; /* Moves the box slightly up */
+  border-radius: 4px; /* Rounds the corners */
+  padding: 20px; /* Space inside the box */
+  width: 80%; /* Makes it take 80% of the screen width */
+  max-width: 800px; /* Ensures it doesn't get too wide */
+}
+
+/*Light Theme*/
+.light-theme {
+  --background:#ffffff;
+  --foreground:#000000;
+}
+
+.light-theme a {
+  color: blue;
+  text-decoration: none;
+}
+
+.light-theme a:hover{
+  color: dark rgb(0, 0, 117);
+  text-decoration: underline;
+}
+
+.light-theme .navbar {
+  list-style-type: none;
+  margin: 0;
+  padding: 20px;
+  width: 100%;
+  background-color: #ffffff;
+}
+
+.light-theme .container {
+  display: flex; /* Enables centering */
+  justify-content: center; /* Centers the box horizontally */
+  padding: 20px; /* Adds spacing around the container */
+}
+
+.light-theme .content {
+  background: #ffffff; /* White background */
+  box-shadow: 0 2px 4px 1px rgba(0, 0, 0, 0.2); /* Soft shadow effect */
+  position: relative;
+  top: 0px; /* Moves the box slightly up */
+  border-radius: 4px; /* Rounds the corners */
+  padding: 20px; /* Space inside the box */
+  width: 80%; /* Makes it take 80% of the screen width */
+  max-width: 800px; /* Ensures it doesn't get too wide */
+}
+
+/*Matrix Theme porque si*/
+
+.matrix-theme {
+  --background:#000000;
+  --foreground:#008529;
+}
+
+.matrix-theme a {
+  color: #004d17;
+  text-decoration: none;
+}
+
+.matrix-theme a:hover{
+  color: dark #003b12;
+  text-decoration: underline;
+}
+
+.matrix-theme .navbar {
+  list-style-type: none;
+  margin: 0;
+  padding: 20px;
+  width: 100%;
+  background-color: #313131;
+}
+
+.matrix-theme .container {
+  display: flex; /* Enables centering */
+  justify-content: center; /* Centers the box horizontally */
+  padding: 20px; /* Adds spacing around the container */
+}
+
+.matrix-theme .content {
+  background: #313131; /* White background */
+  box-shadow: 0 2px 4px 1px rgba(0, 0, 0, 0.2); /* Soft shadow effect */
+  position: relative;
+  top: 0px; /* Moves the box slightly up */
+  border-radius: 4px; /* Rounds the corners */
+  padding: 20px; /* Space inside the box */
+  width: 80%; /* Makes it take 80% of the screen width */
+  max-width: 800px; /* Ensures it doesn't get too wide */
+}
+
+/*Classic Theme*/
+
+.classic-theme a {
+color: #663512;
+text-decoration: none;
+}
+
+.classic-theme a:hover {
+color: #502a10;
+text-decoration: underline;
+}
+
+.classic-theme .navbar {
+list-style-type: none;
+margin: 0;
+padding: 20px;
+width: 100%;
+background-color: #ffffff;
+}
+
+.classic-theme .container {
+display: flex; /* Enables centering */
+justify-content: center; /* Centers the box horizontally */
+padding: 20px; /* Adds spacing around the container */
+}
+
+.classic-theme .content {
+background: #ffffff; /* White background */
+box-shadow: 0 2px 4px 1px rgba(0, 0, 0, 0.2); /* Soft shadow effect */
+position: relative;
+top: 0px; /* Moves the box slightly up */
+border-radius: 4px; /* Rounds the corners */
+padding: 20px; /* Space inside the box */
+width: 80%; /* Makes it take 80% of the screen width */
+max-width: 800px; /* Ensures it doesn't get too wide */
+}
