@@ -7,11 +7,11 @@ interface ThemeWrapperProps {
 }
 
 const ThemeWrapper: React.FC<ThemeWrapperProps> = ({ children }) => {
-  const [theme, setTheme] = useState("light-theme");
+  const [theme, setTheme] = useState("classic-theme");
 
   useEffect(() => {
     // Load the saved theme from localStorage
-    const savedTheme = localStorage.getItem("theme") || "light-theme";
+    const savedTheme = localStorage.getItem("theme") || "classic-theme";
     setTheme(savedTheme);
     document.body.className = savedTheme; // Apply the saved theme
   }, []);
