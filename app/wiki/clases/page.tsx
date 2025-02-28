@@ -34,7 +34,7 @@ export default function Clases() {
                     <li><Link href="/wiki/clases/bard">Bardo</Link></li>
                     <li><Link href="/wiki/clases/cleric">Clérigo</Link></li>
                     <li><Link href="/wiki/clases/druid">Druida</Link></li>
-                    <li><Link href="/wiki/clases/fighter">Guerrero</Link></li>
+                    <li><Link href="/wiki/clases/fighter">Guerrero 🔧 WIP 🔧</Link></li>
                     <li><Link href="/wiki/clases/monk">Monje</Link></li>
                     <li><Link href="/wiki/clases/paladin">Paladín</Link></li>
                     <li><Link href="/wiki/clases/ranger">Explorador</Link></li>

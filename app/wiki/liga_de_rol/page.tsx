@@ -7,9 +7,9 @@ export default function Liga_de_rol() {
             <div className="content">
                 <h2 id="tabla-de-contenidos">Tabla de contenidos</h2>
                 <li><Link href="/wiki/clases">Clases</Link></li>
-                <li><Link href="/wiki/jugadores">Jugadores</Link></li>
-                <li><Link href="/wiki/organizaciones">Organizaciones</Link></li>
-                <li><Link href="/wiki/personajes">Personajes</Link></li>
+                <li><Link href="/wiki/jugadores">Jugadores 🔧 WIP 🔧</Link></li>
+                <li><Link href="/wiki/organizaciones">Organizaciones 🔧 WIP 🔧</Link></li>
+                <li><Link href="/wiki/personajes">Personajes 🔧 WIP 🔧</Link></li>
                 <li>Plots</li>
                 <p>
                     Como nota, esto estará disponible en formato página web para todos los
