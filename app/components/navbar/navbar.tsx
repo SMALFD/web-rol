@@ -12,7 +12,7 @@ const Navbar: React.FC<NavbarProps> = ({ theme, onThemeChange }) => {
       <h1 className="navbar-title">Liga de Rol ASCFI</h1>
       <div className="navbar-container">
         <div className="navbar-links">
-          <Link href="/wiki/liga_de_rol">Home</Link>
+          <Link href="/wiki/liga_de_rol">Home</Link> | <Link href="/wiki/mapa">Mapas</Link>
         </div>
 
         <div className="settings-nav">
@@ -29,4 +29,4 @@ const Navbar: React.FC<NavbarProps> = ({ theme, onThemeChange }) => {
   );
 };
 
-export default Navbar;
+export default Navbar; 
