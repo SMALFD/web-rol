@@ -43,6 +43,11 @@ export default function Rogue() {
                     pícaro de [[Los Héroes Imperiales]]. Evidentemente su muerte hace escaso
                     tiempo ha afectado a la mayoría.
                 </p>
+                <h3 id="rangos-de-rogue">Rangos de Pícaro</h3>
+                <hr />
+                <ol>
+                    <li>?????</li>
+                </ol>
             </div>
         </main>
     );

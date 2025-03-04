@@ -71,14 +71,14 @@ export default function Paladin() {
                     los rangos de la Iglesia para crear sus propios puestos volviéndolos casi
                     iguales.
                 </p>
-                <ul>
+                <ol>
                     <li>Mozo de espadas</li>
                     <li>Escudero</li>
                     <li>Defensor de</li>
                     <li>Paladín</li>
                     <li>Maestro de la Marca</li>
                     <li>Sublime Maestro</li>
-                </ul>
+                </ol>
             </div>
         </main>
     );

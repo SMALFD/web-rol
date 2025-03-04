@@ -61,10 +61,16 @@ export default function Monk() {
                     dragón abandonó el monasterio sin mediar palabra antes de desaparecer. Los
                     monjes predicen que volverá en un momento de crisis para el mundo y
                     liderará a los monjes de la escuela del dragón para salvarlo.
-
-
-
                 </p>
+                <h3 id="rangos-de-monk">Rangos de Monje</h3>
+                <hr />
+                <ol>
+                    <li>Discípulo</li>
+                    <li>Discípulo Interno</li>
+                    <li>Discípulo Avanzado</li>
+                    <li>Sucesor</li>
+                    <li>Patriarca</li>
+                </ol>
             </div>
         </main>
     );

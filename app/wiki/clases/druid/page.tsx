@@ -31,7 +31,7 @@ export default function Druida() {
                     parte del setting.
                 </p>
                 <h3 id="comuna-independiente-del-bosque-de-patent-pending">
-                    <Link href="/wiki/comuna-independiente-del-bosque">Comuna independiente del Bosque de</Link>
+                    <Link href="/wiki/comuna-independiente-del-bosque">Comuna independiente del Bosque Rojo</Link>
                 </h3>
                 <hr />
                 <p>
@@ -59,6 +59,14 @@ export default function Druida() {
                     Entre ellos se escuchan rumores sobre el desarrollo de un arma diseñada
                     para matar druidas aunque por ahora parecen solo eso, rumores.
                 </p>
+                <h3 id="rangos-de-druid">Rangos de Druida</h3>
+                <hr />
+                <ol>
+                    <li>Aprendiz</li>
+                    <li>Estudiante del círculo</li>
+                    <li>Maestro del círculo</li>
+                    <li>Anciano</li>
+                </ol>
             </div>
         </main>
     );

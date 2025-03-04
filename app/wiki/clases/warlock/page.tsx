@@ -35,13 +35,15 @@ export default function Warlock() {
                     Mientras que cada culto es distinto en su manera de otorgar rangos se
                     suele observar esta distribución.
                 </p>
-                <ul>
+                <h3 id="rangos-de-warlock">Rangos de Brujo</h3>
+                <hr />
+                <ol>
                     <li>Sacrificio</li>
                     <li>Iniciado</li>
                     <li>Acólito</li>
                     <li>Jefe de área</li>
                     <li>Líder del culto</li>
-                </ul>
+                </ol>
         </div>
         </main >
     );

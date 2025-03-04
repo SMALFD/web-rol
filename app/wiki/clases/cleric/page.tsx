@@ -58,6 +58,15 @@ export default function Cleric() {
                     Aventureros necesite de un Testigo de Dios, es decir, un miembro de la
                     Iglesia.
                 </p>
+                <h3 id="rangos-de-cleric">Rangos de Clérico</h3>
+                <hr />
+                <ol>
+                    <li>Seminarista</li>
+                    <li>Diácono</li>
+                    <li>Pastor de la fe</li>
+                    <li>Obispo</li>
+                    <li>Papa</li>
+                </ol>
             </div>
         </main>
     );

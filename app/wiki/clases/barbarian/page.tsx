@@ -39,6 +39,14 @@ export default function Barbarian() {
                     fuera pasado de padres a hijos. Esta capacidad y entrenamiento riguroso
                     los ha convertido en los mercenarios más temidos.
                 </p>
+                <h3 id="rangos-de-barbaro">Rangos de Bárbaro</h3>
+                <hr />
+                <ol>
+                    <li>Joven guerrero</li>
+                    <li>Guerrero</li>
+                    <li>Maestro</li>
+                    <li>Inmortal</li>
+                </ol>
             </div>
         </main>
     );

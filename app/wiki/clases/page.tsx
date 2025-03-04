@@ -1,5 +1,5 @@
-import Link from "next/link";
 import React from 'react';
+import Link from "next/link";
 
 export default function Clases() {
     return (
@@ -29,19 +29,19 @@ export default function Clases() {
                     mundo.
                 </p>
                 <ul>
-                    <li><Link href="/wiki/clases/artificer">Artificiero(NA)</Link></li>
-                    <li><Link href="/wiki/clases/barbarian">Bárbaro</Link></li>
-                    <li><Link href="/wiki/clases/bard">Bardo</Link></li>
-                    <li><Link href="/wiki/clases/cleric">Clérigo</Link></li>
-                    <li><Link href="/wiki/clases/druid">Druida</Link></li>
-                    <li><Link href="/wiki/clases/fighter">Guerrero</Link> 🔧WIP🔧</li>
-                    <li><Link href="/wiki/clases/monk">Monje</Link></li>
-                    <li><Link href="/wiki/clases/paladin">Paladín</Link></li>
-                    <li><Link href="/wiki/clases/ranger">Explorador</Link></li>
-                    <li><Link href="/wiki/clases/rogue">Pícaro</Link></li>
-                    <li><Link href="/wiki/clases/sorcerer">Hechicero</Link></li>
-                    <li><Link href="/wiki/clases/warlock">Brujo</Link></li>
-                    <li><Link href="/wiki/clases/wizard">Mago</Link></li>
+                    <li><Link href="/wiki/artificer">Artificiero(NA)</Link></li>
+                    <li><Link href="/wiki/barbarian">Bárbaro</Link></li>
+                    <li><Link href="/wiki/bard">Bardo</Link></li>
+                    <li><Link href="/wiki/cleric">Clérigo</Link></li>
+                    <li><Link href="/wiki/druid">Druida</Link></li>
+                    <li><Link href="/wiki/fighter">Guerrero</Link></li>
+                    <li><Link href="/wiki/monk">Monje</Link></li>
+                    <li><Link href="/wiki/paladin">Paladín</Link></li>
+                    <li><Link href="/wiki/ranger">Explorador</Link></li>
+                    <li><Link href="/wiki/rogue">Pícaro</Link></li>
+                    <li><Link href="/wiki/sorcerer">Hechicero</Link></li>
+                    <li><Link href="/wiki/warlock">Brujo</Link></li>
+                    <li><Link href="/wiki/wizard">Mago</Link></li>
                 </ul>
             </div>
         </main>

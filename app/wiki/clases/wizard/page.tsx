@@ -65,7 +65,7 @@ export default function Wizard() {
                     Claro está que algunos despiertan un sentido de la aventura y se empiezan
                     a atrever más.
                 </p>
-                <h3 id="rangos-de-mago">Rangos de mago</h3>
+                <h3 id="rangos-de-mago">Rangos de Mago</h3>
                 <hr />
                 <ol>
                     <li>Estudiante de grado</li>

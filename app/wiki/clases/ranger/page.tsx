@@ -63,6 +63,13 @@ export default function Ranger() {
                     <li>[[Corwey]]</li>
                     <li>[[Will]]</li>
                 </ul>
+                <h3 id="rangos-de-ranger">Rangos de Explorador</h3>
+                <hr />
+                <ol>
+                    <li>Guardia Forestal</li>
+                    <li>Aprendiz del Roble</li>
+                    <li>Guardia de Roble</li>
+                </ol>
             </div>
         </main>
     );
