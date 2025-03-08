@@ -26,9 +26,9 @@ export default function Warlock() {
                     siempre recomendamos que os podéis adherir al culto ya creado en la
                     ciudad.
                 </p>
-                <h3 id="culto-de-"><Link href="/wiki/culto-bajo-ciudad">Culto bajo la ciudad</Link></h3>
+                <h3 id="culto-de-"><Link href="/wiki/organizaciones/culto-bajo-ciudad">Culto bajo la ciudad</Link></h3>
                 <hr />
-                <p>Si quieres más detalles sobre el culto puede acceder directamente a la <Link href="/wiki/culto-bajo-ciudad">página </Link>mismamente.</p>
+                <p>Si quieres más detalles sobre el culto puede acceder directamente a la <Link href="/wiki/organizaciones/culto-bajo-ciudad">página </Link>mismamente.</p>
                 <h3 id="rangos-de-brujo">Rangos de brujo</h3>
                 <hr />
                 <p>

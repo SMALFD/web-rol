@@ -17,9 +17,9 @@ export default function Ranger() {
                     populares es la de [[Robin Hood]].
                 </p>
                 <p>
-                    Los exploradores suelen estar afiliados solo con el <Link href="/wiki/gremio-de-aventureros">Gremio de Aventureros</Link> y sencillamente aceptan los contratos necesarios para vivir
+                    Los exploradores suelen estar afiliados solo con el <Link href="/wiki/organizaciones/gremio-de-aventureros">Gremio de Aventureros</Link> y sencillamente aceptan los contratos necesarios para vivir
                     su día a día pero tampoco es poco común verlos afiliados en mayor o menor
-                    nivel con la <Link href="/wiki/guardia-de-roble">Guardia de Roble</Link>. Aquellos más interesados en esta
+                    nivel con la <Link href="/wiki/organizaciones/guardia-de-roble">Guardia de Roble</Link>. Aquellos más interesados en esta
                     organización pueden empezar a saber más sobre la red de información y
                     política asociada y además tendrán asignado un mentor.
                 </p>

@@ -9,7 +9,7 @@ export default function Rogue() {
                 <p>
                     Si bien se usa la palabra pícaro como un arquetipo general este se trata
                     de uno de los títulos más variados en su aplicación real, desde un asesino
-                    bajo contrato de silencio del <Link href="/wiki/gremio-de-asesinos">Gremio de Asesinos</Link>, un luchador
+                    bajo contrato de silencio del <Link href="/wiki/organizaciones/gremio-de-asesinos">Gremio de Asesinos</Link>, un luchador
                     especializado en apuñalar a alguien entre las juntas de la armadura
                     mientras está distraído o un joven acostumbrado a moverse por las
                     mazmorras del viejo [[Tigger]] y a deshabilitar trampas.
@@ -26,7 +26,7 @@ export default function Rogue() {
                     para así mantener el secretismo de sus actividades. Romper este juramento
                     es el mayor tabú entre ellos e implica un botín de la más alta prioridad
                     puesto en tu cabeza. Formar parte del Gremio te dará acceso a contratos
-                    especiales demás de los contratos básicos del <Link href="/wiki/gremio-de-aventureros">Gremio de Aventureros</Link>.
+                    especiales demás de los contratos básicos del <Link href="/wiki/organizaciones/gremio-de-aventureros">Gremio de Aventureros</Link>.
                     Si ves a alguien sentándose en una mesa a oscuras en la taberna con la
                     capucha puesta en un interior probablemente sea parte del Gremio de
                     Asesinos.
@@ -39,7 +39,7 @@ export default function Rogue() {
                     A pesar de esto no es poco común ver a pícaros que simplemente han
                     entrenado para unirse al Gremio de Aventureros. Estos son más variados y
                     son confundidos habitualmente con gente que clasifica más como
-                    <Link href="/wiki/fighter"> guerreros</Link>. La mayoría de ellos tiene como héroe y objetivo ser como el
+                    <Link href="/wiki/clases/fighter"> guerreros</Link>. La mayoría de ellos tiene como héroe y objetivo ser como el
                     pícaro de [[Los Héroes Imperiales]]. Evidentemente su muerte hace escaso
                     tiempo ha afectado a la mayoría.
                 </p>

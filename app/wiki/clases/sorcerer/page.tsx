@@ -16,7 +16,7 @@ export default function Sorcerer() {
                     Este grupo es ampliamente el más desorganizado de todos ya que no tienen
                     ninguna organización central que los apoye o un grupo de ayuda entre
                     ellos. Es debido a eso que suelen ir directamente a sitio más conocido por
-                    estar lleno de inadaptados con ganas de grandeza y gloria, el <Link href="/wiki/gremio-de-aventureros">Gremio de Aventureros</Link>. Cuando dos hechiceros se encuentran suelen llevarse bien ya
+                    estar lleno de inadaptados con ganas de grandeza y gloria, el <Link href="/wiki/organizaciones/gremio-de-aventureros">Gremio de Aventureros</Link>. Cuando dos hechiceros se encuentran suelen llevarse bien ya
                     que no es común encontrar a alguien que comprenda las dificultades de
                     encontrarse con una capacidad tan extraña y ninguna guía para ayudarles.
                 </p>

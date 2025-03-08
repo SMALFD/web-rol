@@ -35,15 +35,15 @@ export default function Cleric() {
                     En este setting ofrecemos una opción de iglesia a la que el clérigo puede
                     servir.
                 </p>
-                <h3 id="la-iglesia">La <Link href="/wiki/iglesia">Iglesia</Link></h3>
+                <h3 id="la-iglesia">La <Link href="/wiki/organizaciones/iglesia">Iglesia</Link></h3>
                 <hr />
                 <p>
                     Has decidido seguir a la Diosa de la vida y la luz. Como su sirviente
                     debes tratar de expandir una palabra de paz y verdad. Tus tareas se
                     extienden desde curar a los enfermos y aquellos que tengan heridas hasta
                     iluminar las mentiras más oscuras y poner verdades a la luz. La doctrina
-                    de la Iglesia cada vez es más estricta y sus acciones con las legiones de
-                    <Link href="/wiki/paladin">paladines</Link> han tenido críticos. El paladín de <Link href="/wiki/los-heroes-imperiales">Los Héroes Imperiales</Link>
+                    de la Iglesia cada vez es más estricta y sus acciones con las legiones de 
+                    <Link href="/wiki/clases/paladin">paladines</Link> han tenido críticos. El paladín de <Link href="/wiki/organizaciones/los-heroes-imperiales">Los Héroes Imperiales</Link>
                     estuvo revelando que el dogma de la Iglesia no era necesariamente el de la
                     Diosa pero su muerte parece haber relajado estas acusaciones. La Iglesia
                     pareció agradecer la muerte de uno de sus más grandes críticos pero no son

@@ -19,9 +19,9 @@ export default function Wizard() {
                     poderes increíbles por ese sacrificio.
                 </p>
                 <p>
-                    En la práctica empezáis como simples estudiantes de grado en la <Link href="/wiki/torre-magica-roja">Torre Mágica Roja</Link>, tradicionalmente dirigida por aquellos magos más dirigidos 
+                    En la práctica empezáis como simples estudiantes de grado en la <Link href="/wiki/organizaciones/torre-magica-roja">Torre Mágica Roja</Link>, tradicionalmente dirigida por aquellos magos más dirigidos 
                     hacia las artes y humanidades donde se centran en hechizos grandes,
-                    dañinos e increíbles visualmente o en la <Link href="/wiki/torre-magica-azul">Torre Mágica Azul</Link>,
+                    dañinos e increíbles visualmente o en la <Link href="/wiki/organizaciones/torre-magica-azul">Torre Mágica Azul</Link>,
                     tradicionalmente dirigida a mentes más ordenadas y a un estudio más
                     sistemáticos de la magia donde se precian los hechizos de soporte, ayuda y
                     utilidad general.
@@ -54,7 +54,7 @@ export default function Wizard() {
                 <hr />
                 <p>
                     La actividad más popular para conseguir créditos y además conseguir dinero
-                    para las segundas matrículas es alistarse al <Link href="/wiki/gremio-de-aventureros">Gremio de Aventureros</Link>. La
+                    para las segundas matrículas es alistarse al <Link href="/wiki/organizaciones/gremio-de-aventureros">Gremio de Aventureros</Link>. La
                     mayoría de estudiantes dicen que no eres un estudiante real si no has
                     matado 1000 goblins. Esto es una evidente exageración pero se mantienen
                     rankings entre los alumnos para ver quien ha acudido a más misiones y se

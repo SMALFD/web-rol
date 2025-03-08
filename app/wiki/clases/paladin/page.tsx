@@ -26,14 +26,14 @@ export default function Paladin() {
                     aunque este camino es conocido por ser mucho más arduo. En este setting os
                     ofrecemos dos caminos habituales para ser un paladín.
                 </p>
-                <h3 id="paladín-del-imperio">Paladín del <Link href="/wiki/imperio">Imperio</Link></h3>
+                <h3 id="paladín-del-imperio">Paladín del <Link href="/wiki/organizaciones/imperio">Imperio</Link></h3>
                 <hr />
                 <p>
                     Como paladín al servicio del imperio has jurado servir a la corona y al
                     bienestar del país. Aunque tu principal lealtad es hacia el país y la
                     mayoría del tiempo lo dedicas a hacer turnos de guardia, limpiar armas y
                     practicar formaciones siempre puedes dedicar algo de tiempo a hacer algún
-                    encargo para el <Link href="/wiki/gremio-de-aventureros">Gremio de Aventureros</Link>.
+                    encargo para el <Link href="/wiki/organizaciones/gremio-de-aventureros">Gremio de Aventureros</Link>.
                 </p>
                 <p>
                     Servir al Imperio siempre te da ventajas a la hora de acceder a
@@ -41,7 +41,7 @@ export default function Paladin() {
                     sigue siendo la mayor fuerza en la ciudad y formar parte de su guardia
                     tiene claros beneficios.
                 </p>
-                <h3 id="paladín-de-la-iglesia">Paladín de la <Link href="/wiki/iglesia">Iglesia</Link></h3>
+                <h3 id="paladín-de-la-iglesia">Paladín de la <Link href="/wiki/organizaciones/iglesia">Iglesia</Link></h3>
                 <hr />
                 <p>
                     Tu lealtad jurada a una diosa de la vida y la luz te ha puesto en un claro

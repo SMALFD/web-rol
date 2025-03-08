@@ -22,7 +22,7 @@ export default function Druida() {
                 </p>
                 <p>
                     A pesar de esto los druidas no son completamente asociales, muchos de
-                    ellos reconocen el valor de organizaciones como el <Link href="/wiki/gremio-de-aventureros">Gremio de Aventureros</Link> como una herramienta para mantener la paz en los bosques,
+                    ellos reconocen el valor de organizaciones como el <Link href="/wiki/organizaciones/gremio-de-aventureros">Gremio de Aventureros</Link> como una herramienta para mantener la paz en los bosques,
                     evitar infestaciones y destruir a aquellos que buscan traer demonios a la
                     tierra.
                 </p>
@@ -31,14 +31,14 @@ export default function Druida() {
                     parte del setting.
                 </p>
                 <h3 id="comuna-independiente-del-bosque-de-patent-pending">
-                    <Link href="/wiki/comuna-independiente-del-bosque">Comuna independiente del Bosque Rojo</Link>
+                    <Link href="/wiki/organizaciones/comuna-independiente-del-bosque">Comuna independiente del Bosque Rojo</Link>
                 </h3>
                 <hr />
                 <p>
                     Una comuna relativamente grande con unos 60 miembros vive al lado de la
-                    ciudad de <Link href="/wiki/imperio">El Imperio de Patent Pending</Link> y realiza sus
+                    ciudad de <Link href="/wiki/organizaciones/imperio">El Imperio de Patent Pending</Link> y realiza sus
                     rituales cada luna llena con el beneplácito del <Link href="/wiki/emperador">Emperador</Link>. Tras su
-                    muerte este permiso desaparece y su posición en el <Link href="/wiki/imperio">Imperio</Link> queda en el
+                    muerte este permiso desaparece y su posición en el <Link href="/wiki/iorganizaciones/imperio">Imperio</Link> queda en el
                     aire esperando a su permiso o prohibición.
                 </p>
                 <p>

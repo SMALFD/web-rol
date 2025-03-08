@@ -18,7 +18,7 @@ export default function Monk() {
                     Los monjes suelen dedicar su vida a la meditación y perfeccionar sus
                     habilidades hasta que su cuerpo se rompa pero entre ellos unos pocos
                     despiertan curiosidad por el mundo exterior y en contra de algunas
-                    doctrinas salen en busca de aventura. La mayoría acaban entre el <Link href="/wiki/gremio-de-aventureros">Gremio de Aventureros</Link> y el <Link href="/wiki/gremio-de-asesinos">Gremio de Asesinos</Link>. Habitualmente debido a sus
+                    doctrinas salen en busca de aventura. La mayoría acaban entre el <Link href="/wiki/organizaciones/gremio-de-aventureros">Gremio de Aventureros</Link> y el <Link href="/wiki/organizaciones/gremio-de-asesinos">Gremio de Asesinos</Link>. Habitualmente debido a sus
                     extrañas habilidades son aceptados sin demasiados miramientos.
                 </p>
                 <p>
@@ -45,7 +45,7 @@ export default function Monk() {
                 <hr />
                 <p>
                     Durante las eras hay varios dragones que usando una forma humanoide han
-                    recorrido el <Link href="/wiki/imperio">Imperio</Link> dejando su rastro por donde iban. Algunos de
+                    recorrido el <Link href="/wiki/organizaciones/imperio">Imperio</Link> dejando su rastro por donde iban. Algunos de
                     ellos dejaban solo destrucción a su paso, pero otros compartían su
                     conocimiento a los ciudadanos.
                 </p>
