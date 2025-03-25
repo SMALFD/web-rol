@@ -13,7 +13,7 @@ export default function Armstrong() {
                     Combina las técnicas de la magia de trasmutación con las técnicas de combate físicas como el boxeo o la lucha libre. Ha entrenado su cuerpo para no depender de la magia en combate, pero a su vez aplica el potencial de su magia mejorando sus capacidades físicas según le convenga. Por ejemplo potencia sus músculos para una mayor fuerza o refuerza su espada y así aguanta un impacto.
                 </p>
                 <p>
-                    Su hechizo favorito es "<Link href="https://dnd5e.wikidot.com/spell:stone-shape">Stone Shape</Link>" para esculpir, aunque también la usa en combate en ocasiones. Un ejemplo de esta técnica en combate se observa cuando crea espinas o pinchos de piedra para luego impulsarlos a puñetazos.
+                    Su hechizo favorito es &quot;<Link href="https://dnd5e.wikidot.com/spell:stone-shape">Stone Shape</Link>&quot; para esculpir, aunque también la usa en combate en ocasiones. Un ejemplo de esta técnica en combate se observa cuando crea espinas o pinchos de piedra para luego impulsarlos a puñetazos.
                 </p>
                 <p>
                     Como profesor es conocido por ser un buenazo que pone buenas notas casi siempre si ve al estudiante esforzarse. A pesar de esto demuestra una increíble determinación de que la magia solo debe ser usada para el bien, si ve a un estudiante pasarse de la raya no tiene problemas con ocuparse de que esté encerrado un tiempo en el calabozo. Si quieres un profesor fácil de complacer en la <Link href="/wiki/organizaciones/torre-magica-roja">Torre Mágica Roja</Link> este es el mejor.
