@@ -35,7 +35,7 @@ export default function Wizard() {
                 </h3>
                 <hr />
                 <ul>
-                    <li>[[Tutor 1]]</li>
+                    <li><Link href="/wiki/personajes/armstrong">Alex Armstrong</Link></li>
                     <li>[[Tutor 2]]</li>
                     <li>[[Tutor 3]]</li>
                 </ul>
@@ -44,7 +44,7 @@ export default function Wizard() {
                 </h3>
                 <hr />
                 <ul>
-                    <li>[[Tutor 4]]</li>
+                    <li><Link href="/wiki/personajes/clockwei">Clockwei</Link></li>
                     <li>[[Tutor 5]]</li>
                     <li>[[Tutor 6]]</li>
                 </ul>

@@ -29,4 +29,4 @@ const Navbar: React.FC<NavbarProps> = ({ theme, onThemeChange }) => {
   );
 };
 
-export default Navbar; 
+export default Navbar;
