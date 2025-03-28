@@ -91,7 +91,7 @@ a:hover {
 /*Dark theme*/
 
 .dark-theme {
-  --background:#000000;
+  --background:#1f2124;
   --foreground:#ffffff;
 }
 
@@ -102,12 +102,12 @@ a:hover {
 }
 
 .dark-theme a {
-  color: #4936f8;
+  color: #7289da;
   text-decoration: none;
 }
 
 .dark-theme a:hover{
-  color: #533583;
+  color: #4866d1;
   text-decoration: underline;
 }
 
@@ -116,7 +116,7 @@ a:hover {
   margin: 0;
   padding: 20px;
   width: 100%;
-  background-color: #313131;
+  background-color: #36393f;
 }
 
 .dark-theme .container {
@@ -126,7 +126,7 @@ a:hover {
 }
 
 .dark-theme .content {
-  background: #313131; /* White background */
+  background: #36393f; /* White background */
   box-shadow: 0 2px 4px 1px rgba(0, 0, 0, 0.2); /* Soft shadow effect */
   position: relative;
   top: 0px; /* Moves the box slightly up */
@@ -136,9 +136,15 @@ a:hover {
   max-width: 800px; /* Ensures it doesn't get too wide */
 }
 
+.dark-theme .settings-nav select {
+  background-color: #36393f;
+  border: none;
+  color: #ffffff;
+}
+
 /*Light Theme*/
 .light-theme {
-  --background:#ffffff;
+  --background:#e7dfb5;
   --foreground:#000000;
 }
 
@@ -157,7 +163,7 @@ a:hover {
   margin: 0;
   padding: 20px;
   width: 100%;
-  background-color: #ffffff;
+  background-color: #EDE8D0;
 }
 
 .light-theme .container {
@@ -167,7 +173,7 @@ a:hover {
 }
 
 .light-theme .content {
-  background: #ffffff; /* White background */
+  background: #EDE8D0; /* White background */
   box-shadow: 0 2px 4px 1px rgba(0, 0, 0, 0.2); /* Soft shadow effect */
   position: relative;
   top: 0px; /* Moves the box slightly up */
@@ -175,6 +181,12 @@ a:hover {
   padding: 20px; /* Space inside the box */
   width: 80%; /* Makes it take 80% of the screen width */
   max-width: 800px; /* Ensures it doesn't get too wide */
+}
+
+.light-theme .settings-nav select {
+  background-color: #EDE8D0;
+  border: none;
+  color: #000000;
 }
 
 /*Matrix Theme porque si*/
@@ -219,6 +231,12 @@ a:hover {
   max-width: 800px; /* Ensures it doesn't get too wide */
 }
 
+.matrix-theme .settings-nav select {
+  background-color: #313131;
+  border: none;
+  color: #008529;
+}
+
 /*Classic Theme*/
 
 .classic-theme a {
@@ -254,4 +272,10 @@ border-radius: 4px; /* Rounds the corners */
 padding: 20px; /* Space inside the box */
 width: 80%; /* Makes it take 80% of the screen width */
 max-width: 800px; /* Ensures it doesn't get too wide */
+}
+
+.classic-theme .settings-nav select {
+  background-color: #ffffff;
+  border: none;
+  color: #8B4513;
 }
