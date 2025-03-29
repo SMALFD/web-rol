@@ -34,7 +34,7 @@ a:hover {
   align-items: flex-start;
   justify-content: space-between;
   padding: 20px;
-  width: 100%;
+  width: 95%;
   background-color: #ffffff;
 }
 
@@ -46,7 +46,7 @@ a:hover {
 .navbar-container {
   display: flex; /* Flex layout for horizontal arrangement */
   justify-content: space-between; /* Space between links and the dropdown */
-  width: 100%
+  width: 95%
 }
 
 .navbar-links {
@@ -253,7 +253,8 @@ text-decoration: underline;
 list-style-type: none;
 margin: 0;
 padding: 20px;
-width: 100%;
+overflow: hidden;
+width: 98%;
 background-color: #ffffff;
 }
 
