@@ -26,7 +26,7 @@ export default function Barbarian() {
                     una vez entrada la pelea.
                 </p>
                 <p>
-                    En este setting la mayoría de bárbaros provienen de las <Link href="/wiki/las-tribus-del-norte">Las tribus del Norte</Link>. Aún así es sabido de muchas más tribus y poblaciones, donde
+                    En este setting la mayoría de bárbaros provienen de las <Link href="/wiki/organizaciones/las-tribus-del-norte">Las tribus del Norte</Link>. Aún así es sabido de muchas más tribus y poblaciones, donde
                     estilos de pelea parecidos han ido surgiendo.
                 </p>
                 <h3 id="las-tribus-del-norte">Las tribus del norte</h3>
@@ -34,7 +34,7 @@ export default function Barbarian() {
                 <p>
                     Entre los bárbaros los más conocidos suelen venir de los pueblos de
                     procedencia nórdica, que hace pocas generaciones fueron asimilados en el
-                    <Link href="/wiki/imperio">Imperio</Link>. A estos se les permitió mantener su cultura dejando que sus
+                    <Link href="/wiki/organizaciones/imperio">Imperio</Link>. A estos se les permitió mantener su cultura dejando que sus
                     conocimientos sobre como canalizar la furia interior a través de runas
                     fuera pasado de padres a hijos. Esta capacidad y entrenamiento riguroso
                     los ha convertido en los mercenarios más temidos.

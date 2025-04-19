@@ -26,7 +26,7 @@ export default function Bard() {
                 <p>
                     En este setting la mayoría de bardos son increíblemente independientes y
                     por lo tanto no suelen estar asociados con ninguna organización más que
-                    con el <Link href="/wiki/gremio-de-aventureros">Gremio de Aventureros</Link>.
+                    con el <Link href="/wiki/organizaciones/gremio-de-aventureros">Gremio de Aventureros</Link>.
                 </p>
             </div>
         </main>

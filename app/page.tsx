@@ -10,7 +10,7 @@ export default function Liga_de_rol() {
                 <li><Link href="/wiki/jugadores">Jugadores</Link> 🔧WIP🔧</li>
                 <li><Link href="/wiki/organizaciones">Organizaciones</Link> 🔧WIP🔧</li>
                 <li><Link href="/wiki/personajes">Personajes</Link> 🔧WIP🔧</li>
-                <li>Plots</li>
+                <li><Link href="/wiki/plots">Plots</Link></li>
                 <p>
                     Como nota, esto estará disponible en formato página web para todos los
                     jugadores para acceder libremente. Aquello que se escriba para mantener
