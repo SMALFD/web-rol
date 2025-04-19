@@ -1,5 +1,4 @@
 import React from 'react';
-import Link from "next/link";
 
 export default function La_nueva_ropa_del_principe() {
     return (
