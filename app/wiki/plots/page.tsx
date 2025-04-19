@@ -14,6 +14,8 @@ export default function Plots() {
                 </p>
                 <ul>
                     <li><Link href="/wiki/plots/el-culto-bajo-la-ciudad">El culto bajo la ciudad</Link></li>
+                    <li><Link href="/wiki/plots/el-asesinato-del-emperador">El asesinato del Emperador</Link></li>
+                    <li><Link href="/wiki/plots/la-nueva-ropa-del-principe">La nueva ropa del príncipe</Link></li>
                 </ul>
             </div>
         </main>
